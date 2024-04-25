@@ -1,0 +1,157 @@
+EightPuzzle_RandomHillClimbing result:
+
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+Failed!
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+0 1 2 3 4 5 6 7 8 
+Failed!
+
+Total time: 139.4336838722229
+Total case number: 150, Success case number: 70
+Success rate: 0.4666666666666667
+Average cost: 374658.84
